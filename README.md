@@ -75,17 +75,11 @@ android:value="xxxxxxxxxxxx"/>
 
 <br/>
 
-### Demo Video
-<a href="https://youtu.be/N5Xv-QDSUWI"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/2560px-Logo_of_YouTube_%282015-2017%29.svg.png" width="100"></img></a>
-<br/>
+
 
 ### Screenshots
 
-<br/>
 
-For more screen shots [Here](https://github.com/mo7amedaliEbaid/online-shop/blob/88f2b2729c754b6ed54cd423c8fb9f57bd283b06/onlineshop_screenshots)
-
-<br/>
 
 <p float="left">
 <img src="https://github.com/mo7amedaliEbaid/online-shop/blob/88f2b2729c754b6ed54cd423c8fb9f57bd283b06/onlineshop_screenshots/intro-m.jpg" width="150" />
